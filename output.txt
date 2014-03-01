@@ -1,0 +1,102 @@
+Number of labels: 3
+Number of documents in training set: 100
+Tweet: 201	Volkswagen Golf: is a German automobile manufacturer headquartered in Wolfsburg, Lower Saxony, Germany. Volkswagen is the original and top-selling marque of the Volkswagen Group, the biggest German automaker and the second largest automaker in the world.
+  Audi: -53.530358254409414  BMW: -57.33339804369988  Volkswagen: -31.17006387145334 => Volkswagen
+Tweet: 202	Volkswagen Polo: is a German automobile manufacturer headquartered in Wolfsburg, Lower Saxony, Germany. Volkswagen is the original and top-selling marque of the Volkswagen Group, the biggest German automaker and the second largest automaker in the world.
+  Audi: -56.20758284419949  BMW: -60.200824828503286  Volkswagen: -35.666310470638706 => Volkswagen
+Tweet: 203	Volkswagen Fiesta: is a German automobile manufacturer headquartered in Wolfsburg, Lower Saxony, Germany. Volkswagen is the original and top-selling marque of the Volkswagen Group, the biggest German automaker and the second largest automaker in the world.
+  Audi: -56.20758284419949  BMW: -60.200824828503286  Volkswagen: -35.666310470638706 => Volkswagen
+Tweet: 204	Volkswagen Clio: is a German automobile manufacturer headquartered in Wolfsburg, Lower Saxony, Germany. Volkswagen is the original and top-selling marque of the Volkswagen Group, the biggest German automaker and the second largest automaker in the world.
+  Audi: -56.20758284419949  BMW: -60.200824828503286  Volkswagen: -35.666310470638706 => Volkswagen
+Tweet: 205	Volkswagen Focus: is a German automobile manufacturer headquartered in Wolfsburg, Lower Saxony, Germany. Volkswagen is the original and top-selling marque of the Volkswagen Group, the biggest German automaker and the second largest automaker in the world.
+  Audi: -56.20758284419949  BMW: -60.200824828503286  Volkswagen: -35.666310470638706 => Volkswagen
+Tweet: 206	BMW Qashqai:BMW produce a number of high-performance derivatives of their cars developed by their BMW M GmbH (previously BMW Motorsport GmbH) subsidiary.
+  Audi: -23.120549994110814  BMW: -9.799752599430594  Volkswagen: -24.545392731828336 => BMW
+Tweet: 207	BMW Astra:BMW produce a number of high-performance derivatives of their cars developed by their BMW M GmbH (previously BMW Motorsport GmbH) subsidiary.
+  Audi: -23.120549994110814  BMW: -9.799752599430594  Volkswagen: -24.545392731828336 => BMW
+Tweet: 208	BMW Corsa:BMW produce a number of high-performance derivatives of their cars developed by their BMW M GmbH (previously BMW Motorsport GmbH) subsidiary.
+  Audi: -23.120549994110814  BMW: -9.799752599430594  Volkswagen: -24.545392731828336 => BMW
+Tweet: 209	BMW :BMW produce a number of high-performance derivatives of their cars developed by their BMW M GmbH (previously BMW Motorsport GmbH) subsidiary.
+  Audi: -26.697311996111758  BMW: -11.315779801879563  Volkswagen: -28.342578701442214 => BMW
+Tweet: 210	BMW Octavia: BMW produce a number of high-performance derivatives of their cars developed by their BMW M GmbH (previously BMW Motorsport GmbH) subsidiary.
+  Audi: -59.130653601522766  BMW: -37.32472684327896  Volkswagen: -62.77467947383465 => BMW
+Tweet: 211	Volkswagen Tiguan:Volkswagen has three cars in the top 10 list of best-selling cars of all time compiled by the website 24/7 Wall St:
+  Audi: -13.726064687444294  BMW: -14.701226667654385  Volkswagen: -5.752034639950502 => Volkswagen
+Tweet: 212	Volkswagen Passat:Volkswagen has three cars in the top 10 list of best-selling cars of all time compiled by the website 24/7 Wall St:
+  Audi: -13.726064687444294  BMW: -14.701226667654385  Volkswagen: -5.752034639950502 => Volkswagen
+Tweet: 213	BMW 3 Series:the Audi Group, and the Audi marque: ~99.55% ownership;[4] the Audi marque is the sole active marque of the former Auto Union, bought from Daimler-Benz on 30 December 1964. quattro GmbH is Audi's performance engineering and manufacturing subsidiary.[4]
+  Audi: -70.2765360165923  BMW: -81.7805979807953  Volkswagen: -89.6246385651383 => Audi
+Tweet: 214	Audi Granta:the Audi Group, and the Audi marque: ~99.55% ownership;[4] the Audi marque is the sole active marque of the former Auto Union, bought from Daimler-Benz on 30 December 1964. quattro GmbH is Audi's performance engineering and manufacturing subsidiary.[4]
+  Audi: -58.63890054712433  BMW: -80.29906463303954  Volkswagen: -79.59298241192167 => Audi
+Tweet: 215	Audi 500:the Audi Group, and the Audi marque: ~99.55% ownership;[4] the Audi marque is the sole active marque of the former Auto Union, bought from Daimler-Benz on 30 December 1964. quattro GmbH is Audi's performance engineering and manufacturing subsidiary.[4]
+  Audi: -91.07224215253534  BMW: -115.03661814076614  Volkswagen: -114.0250831843141 => Audi
+Tweet: 216	Audi Yaris:the Audi Group, and the Audi marque: ~99.55% ownership;[4] the Audi marque is the sole active marque of the former Auto Union, bought from Daimler-Benz on 30 December 1964. quattro GmbH is Audi's performance engineering and manufacturing subsidiary.[4]
+  Audi: -58.63890054712433  BMW: -80.29906463303954  Volkswagen: -79.59298241192167 => Audi
+Tweet: 217	Audi A3:the Audi Group, and the Audi marque: ~99.55% ownership;[4] the Audi marque is the sole active marque of the former Auto Union, bought from Daimler-Benz on 30 December 1964. quattro GmbH is Audi's performance engineering and manufacturing subsidiary.[4]
+  Audi: -91.07224215253534  BMW: -115.03661814076614  Volkswagen: -114.0250831843141 => Audi
+Tweet: 218	Audi Panda:the Audi Group, and the Audi marque: ~99.55% ownership;[4] the Audi marque is the sole active marque of the former Auto Union, bought from Daimler-Benz on 30 December 1964. quattro GmbH is Audi's performance engineering and manufacturing subsidiary.[4]
+  Audi: -58.63890054712433  BMW: -80.29906463303954  Volkswagen: -79.59298241192167 => Audi
+Tweet: 219	BMW C3:BMW has been engaged in motorsport activities since the dawn of the first BMW motorcycle in 1923.
+  Audi: -52.87666700973175  BMW: -31.287239309923596  Volkswagen: -56.1352804511384 => BMW
+Tweet: 220	Volkswagen Rio:Volkswagen has three cars in the top 10 list of best-selling cars of all time compiled by the website 24/7 Wall St:
+  Audi: -13.726064687444294  BMW: -14.701226667654385  Volkswagen: -5.752034639950502 => Volkswagen
+Tweet: 221	Audi Auris:the Audi Group, and the Audi marque: ~99.55% ownership;[4] the Audi marque is the sole active marque of the former Auto Union, bought from Daimler-Benz on 30 December 1964. quattro GmbH is Audi's performance engineering and manufacturing subsidiary.[4]
+  Audi: -58.63890054712433  BMW: -80.29906463303954  Volkswagen: -79.59298241192167 => Audi
+Tweet: 222	Volkswagen Captur:Volkswagen has three cars in the top 10 list of best-selling cars of all time compiled by the website 24/7 Wall St:
+  Audi: -13.726064687444294  BMW: -14.701226667654385  Volkswagen: -5.752034639950502 => Volkswagen
+Tweet: 223	Volkswagen Megane:Volkswagen has three cars in the top 10 list of best-selling cars of all time compiled by the website 24/7 Wall St:
+  Audi: -13.726064687444294  BMW: -14.701226667654385  Volkswagen: -5.752034639950502 => Volkswagen
+Tweet: 224	BMW 1 Series:BMW has been engaged in motorsport activities since the dawn of the first BMW motorcycle in 1923.
+  Audi: -18.877850721759586  BMW: -8.00146478908799  Volkswagen: -20.041229988752196 => BMW
+Tweet: 225	BMW Juke:BMW has been engaged in motorsport activities since the dawn of the first BMW motorcycle in 1923.
+  Audi: -18.877850721759586  BMW: -8.00146478908799  Volkswagen: -20.041229988752196 => BMW
+Tweet: 226	BMW Solaris:BMW has been engaged in motorsport activities since the dawn of the first BMW motorcycle in 1923.
+  Audi: -18.877850721759586  BMW: -8.00146478908799  Volkswagen: -20.041229988752196 => BMW
+Tweet: 227	BMW 2008:BMW has been engaged in motorsport activities since the dawn of the first BMW motorcycle in 1923.
+  Audi: -23.120549994110814  BMW: -9.799752599430594  Volkswagen: -24.545392731828336 => BMW
+Tweet: 228	Audi A Class:the Audi Group, and the Audi marque: ~99.55% ownership;[4] the Audi marque is the sole active marque of the former Auto Union, bought from Daimler-Benz on 30 December 1964. quattro GmbH is Audi's performance engineering and manufacturing subsidiary.[4]
+  Audi: -58.63890054712433  BMW: -80.29906463303954  Volkswagen: -79.59298241192167 => Audi
+Tweet: 229	Volkswagen Up!:Volkswagen has three cars in the top 10 list of best-selling cars of all time compiled by the website 24/7 Wall St:
+  Audi: -51.844927933562175  BMW: -55.528227097508875  Volkswagen: -33.8380994910496 => Volkswagen
+Tweet: 230	Audi Sandero:the Audi Group, and the Audi marque: ~99.55% ownership;[4] the Audi marque is the sole active marque of the former Auto Union, bought from Daimler-Benz on 30 December 1964. quattro GmbH is Audi's performance engineering and manufacturing subsidiary.[4]
+  Audi: -58.63890054712433  BMW: -80.29906463303954  Volkswagen: -79.59298241192167 => Audi
+Tweet: 231	BMW ix35:BMW has been engaged in motorsport activities since the dawn of the first BMW motorcycle in 1923.
+  Audi: -55.55389159952182  BMW: -35.808699640829985  Volkswagen: -58.977493504220774 => BMW
+Tweet: 232	Volkswagen Sportage:Volkswagen has three cars in the top 10 list of best-selling cars of all time compiled by the website 24/7 Wall St:
+  Audi: -13.726064687444294  BMW: -14.701226667654385  Volkswagen: -5.752034639950502 => Volkswagen
+Tweet: 233	Audi A4:the Audi Group, and the Audi marque: ~99.55% ownership;[4] the Audi marque is the sole active marque of the former Auto Union, bought from Daimler-Benz on 30 December 1964. quattro GmbH is Audi's performance engineering and manufacturing subsidiary.[4]
+  Audi: -82.34363568620815  BMW: -115.03661814076614  Volkswagen: -114.0250831843141 => Audi
+Tweet: 234	Volkswagen Cee’d:Volkswagen has three cars in the top 10 list of best-selling cars of all time compiled by the website 24/7 Wall St:
+  Audi: -13.726064687444294  BMW: -14.701226667654385  Volkswagen: -5.752034639950502 => Volkswagen
+Tweet: 235	BMW 308:BMW has been engaged in motorsport activities since the dawn of the first BMW motorcycle in 1923.
+  Audi: -55.55389159952182  BMW: -35.808699640829985  Volkswagen: -58.977493504220774 => BMW
+Tweet: 236	Volkswagen Scenic:Volkswagen has three cars in the top 10 list of best-selling cars of all time compiled by the website 24/7 Wall St:
+  Audi: -13.726064687444294  BMW: -14.701226667654385  Volkswagen: -5.752034639950502 => Volkswagen
+Tweet: 237	BMW Fabia:the Audi Group, and the Audi marque: ~99.55% ownership;[4] the Audi marque is the sole active marque of the former Auto Union, bought from Daimler-Benz on 30 December 1964. quattro GmbH is Audi's performance engineering and manufacturing subsidiary.[4]
+  Audi: -70.2765360165923  BMW: -81.7805979807953  Volkswagen: -89.6246385651383 => Audi
+Tweet: 238	Volkswagen Duster:Volkswagen has three cars in the top 10 list of best-selling cars of all time compiled by the website 24/7 Wall St:
+  Audi: -13.726064687444294  BMW: -14.701226667654385  Volkswagen: -5.752034639950502 => Volkswagen
+Tweet: 239	Audi Punto:the Audi Group, and the Audi marque: ~99.55% ownership;[4] the Audi marque is the sole active marque of the former Auto Union, bought from Daimler-Benz on 30 December 1964. quattro GmbH is Audi's performance engineering and manufacturing subsidiary.[4]
+  Audi: -58.63890054712433  BMW: -80.29906463303954  Volkswagen: -79.59298241192167 => Audi
+Tweet: 240	Volkswagen Touran:Volkswagen has three cars in the top 10 list of best-selling cars of all time compiled by the website 24/7 Wall St:
+  Audi: -13.726064687444294  BMW: -14.701226667654385  Volkswagen: -5.752034639950502 => Volkswagen
+Tweet: 241	Audi C Class:Volkswagen has three cars in the top 10 list of best-selling cars of all time compiled by the website 24/7 Wall St:
+  Audi: -28.453815538240494  BMW: -47.45649970813247  Volkswagen: -39.35129103156965 => Audi
+Tweet: 242	BMW Insignia:BMW has been engaged in motorsport activities since the dawn of the first BMW motorcycle in 1923.
+  Audi: -18.877850721759586  BMW: -8.00146478908799  Volkswagen: -20.041229988752196 => BMW
+Tweet: 243	Audi B Class:BMW has been engaged in motorsport activities since the dawn of the first BMW motorcycle in 1923.
+  Audi: -49.49038779639672  BMW: -53.11438960907225  Volkswagen: -53.522580382290755 => Audi
+Tweet: 244	Volkswagen Ibiza:the Audi Group, and the Audi marque: ~99.55% ownership;[4] the Audi marque is the sole active marque of the former Auto Union, bought from Daimler-Benz on 30 December 1964. quattro GmbH is Audi's performance engineering and manufacturing subsidiary.[4]
+  Audi: -70.65394470598072  BMW: -90.82393474750992  Volkswagen: -81.20538385436768 => Audi
+Tweet: 245	BMW C4 Picasso:BMW has been engaged in motorsport activities since the dawn of the first BMW motorcycle in 1923.
+  Audi: -48.633967737380516  BMW: -29.488951499580992  Volkswagen: -51.63111770806226 => BMW
+Tweet: 246	Audi RAV4:Volkswagen has three cars in the top 10 list of best-selling cars of all time compiled by the website 24/7 Wall St:
+  Audi: -52.54502107557521  BMW: -65.02515316059026  Volkswagen: -55.633454984702865 => Audi
+Tweet: 247	Audi 500L:Volkswagen has three cars in the top 10 list of best-selling cars of all time compiled by the website 24/7 Wall St:
+  Audi: -6.385614782719903  BMW: -15.58637298520927  Volkswagen: -15.449319572359926 => Audi
+Tweet: 248	BMW i20:BMW has been engaged in motorsport activities since the dawn of the first BMW motorcycle in 1923.
+  Audi: -55.55389159952182  BMW: -35.808699640829985  Volkswagen: -58.977493504220774 => BMW
+Tweet: 249	Audi E Class:Volkswagen has three cars in the top 10 list of best-selling cars of all time compiled by the website 24/7 Wall St:
+  Audi: -30.090349921803703  BMW: -50.32392649293587  Volkswagen: -49.881420344752364 => Audi
+Tweet: 250	Volkswagen C-max:the Audi Group, and the Audi marque: ~99.55% ownership;[4] the Audi marque is the sole active marque of the former Auto Union, bought from Daimler-Benz on 30 December 1964. quattro GmbH is Audi's performance engineering and manufacturing subsidiary.[4]
+  Audi: -92.72214546150131  BMW: -122.6940614704331  Volkswagen: -105.10735531357741 => Audi
